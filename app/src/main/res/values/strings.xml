@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContactsPro</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">cancel</string>
+    <string name="save">save</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="add_new_contact_title">Add New Contact</string>
+</resources>
